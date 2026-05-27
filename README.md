@@ -15,7 +15,7 @@ This deck is a data-driven foundation for the German market. It describes how Ge
 
 - `index.html` — single-file scroll deck, 15 slides
 - `deck.pdf` — 16:9 PDF backup, 1600×900 px
-- `favicon.svg` — Ankarsrum-styled favicon
+- `favicon.svg` — Cyntora favicon
 - `README.md` — this file
 
 ## Sources
